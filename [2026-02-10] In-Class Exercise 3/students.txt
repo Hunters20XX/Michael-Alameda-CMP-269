@@ -1,0 +1,6 @@
+Alice_Smith 85 90 78
+Michael_Alameda 75 89 90
+Johnny_Cage 100 95 91
+Peter_Parker 75 98 67
+Mickey_Mouse 99 99 99
+Bob_Jones 70 Error 90

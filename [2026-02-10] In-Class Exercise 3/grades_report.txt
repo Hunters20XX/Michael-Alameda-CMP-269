@@ -1,0 +1,5 @@
+Student: Alice_Smith | Average: 84.33
+Student: Michael_Alameda | Average: 84.67
+Student: Johnny_Cage | Average: 95.33
+Student: Peter_Parker | Average: 80.00
+Student: Mickey_Mouse | Average: 99.00
